@@ -61,7 +61,3 @@ A full-featured system for gyms including:
 ⭐ Always building, always learning
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amercogo&show_icons=true&theme=dark)
-

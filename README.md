@@ -9,31 +9,45 @@
 ## 🚀 About Me
 
 I'm a software engineering student focused on building real-world applications.
-Currently developing **ZeFit**, a full gym management system with web and mobile apps.
+Alongside web and mobile development, I also work with **Java and Spring Boot**,
+following **MVC architecture** and clean code principles.
 
-I enjoy working on full-stack projects, system design, and turning ideas into usable products.
+I’m currently developing:
+- **ZeFit** – a full gym management system (web & mobile)
+- **Personal Java desktop application** for workout and training log management
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend**
+### Frontend
 - Next.js
 - React
 - TypeScript
 - HTML, CSS, Tailwind CSS
 
-**Mobile**
+### Mobile
 - React Native
 - Expo
 
-**Backend & Database**
+### Backend
 - Supabase
-- PostgreSQL
+- Spring Boot
 - REST APIs
+- MVC Architecture
 - Authentication & Authorization
 
-**Tools**
+### Database
+- PostgreSQL
+- SQL
+- Data Modeling
+
+### Desktop Development
+- Java
+- JavaFX
+- Desktop Application Development
+
+### Tools
 - Git
 - GitHub
 
@@ -46,9 +60,20 @@ A full-featured system for gyms including:
 - Mobile app for gym members
 - Membership & payment tracking
 - Barcode-based check-in system
-- Role-based access (admins, trainers, members)
+- Role-based access control
 
 **Tech:** Next.js · React Native · Supabase · PostgreSQL
+
+---
+
+## 🖥️ Java Desktop App – Training Logger
+
+Personal desktop application built in **Java** using **MVC architecture** for:
+- Logging workouts and exercises
+- Tracking progress over time
+- Managing training history
+
+**Tech:** Java · JavaFX · MVC · SQL
 
 ---
 

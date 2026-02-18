@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student  
 💻 Full-Stack Developer  
-🏋️ Founder & Developer of **ZeFit – Gym Management System**
+🏋️ Founder & Developer of **ZEFit – Gym Management System**
 
 ---
 
@@ -53,7 +53,7 @@ I’m currently developing:
 
 ---
 
-## 🏋️ ZeFit – Gym Management System
+## 🏋️ ZEFit – Gym Management System
 
 A full-featured system for gyms including:
 - Web admin dashboard for staff

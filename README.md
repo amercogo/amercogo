@@ -13,7 +13,7 @@ Alongside web and mobile development, I also work with **Java and Spring Boot**,
 following **MVC architecture** and clean code principles.
 
 I’m currently developing:
-- **ZeFit** – a full gym management system (web & mobile)
+- **ZEFit** – a full gym management system (web & mobile)
 - **Personal Java desktop application** for workout and training log management
 
 ---
